@@ -39,7 +39,7 @@ The application uses a MySQL database named `onlineexam` with a table `student` 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/BhanuSaketh/QuizExam Platform.git
+   git clone https://github.com/bhanuprakash69/QuizExamPlatform.git
    ```
 
 2. Set up the MySQL database as described in the project documentation.
